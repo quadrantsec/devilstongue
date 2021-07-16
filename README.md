@@ -1,0 +1,2 @@
+# devilstongue
+"DevilTongue" Suricata signatures. 
